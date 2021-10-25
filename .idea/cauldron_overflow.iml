@@ -40,6 +40,14 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php81" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/psr/container" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/sensio/framework-extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/twig-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/twig-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/twig/extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/translation-contracts" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
